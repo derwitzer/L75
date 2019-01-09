@@ -1,7 +1,7 @@
 # L75 geöffnet?
 Workflow für Siri Shortcuts (iOS) der Daten eines Webservice des österreichischen Bundesheers lädt und weiter vearbeitet. Es wird angezeigt ob die Durchfahrt des TÜPL Allentsteig (NÖ), die L75, gesperrt oder geöffnet ist.
 
-__Version 1.0__
+_Version 1.0_
 Einfache Abfrage mit Ausgabe der Sperrzeiten des aktuellen Tages
 
 __Installation__
